@@ -2,7 +2,7 @@
 Library for GoPro camera communication.
 
 # Functions
-- Connection initialistaion (searching for GoPro bluetooth address, turning on WiFi and connecting to this network)
+- Connection init (searching for GoPro bluetooth address, turning on WiFi and connecting to this network)
 - Power off
 - Start recording
 - Stop recording
