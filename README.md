@@ -1,5 +1,5 @@
 # GoPro-API
-Library for GoPro camera communication.
+Application interface for GoPro camera communication.
 
 # Functions
 - Connection init (searching for GoPro bluetooth address, connecting by bluetooth, turning on WiFi and connecting to this network)
@@ -13,6 +13,6 @@ Library for GoPro camera communication.
 - System ready status
 
 # Compatibility
-This library was tested with:
+This API was tested with:
 - GoPro Hero 7
 - GoPro Hero 8
