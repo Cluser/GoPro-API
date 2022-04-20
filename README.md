@@ -5,7 +5,7 @@ Application interface for GoPro camera communication.
 - Connection init (searching for GoPro bluetooth address, connecting by bluetooth, turning on WiFi and connecting to this network)
 - Power off
 - Start recording
-- Stop recording
+- Stop recording with saving to specified location
 - Battery status
 - Busy status
 - Recording status
